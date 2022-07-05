@@ -1,0 +1,1 @@
+Zadeklarowac tablice  statyczna o rozmiarach NxN. O rekordach wiek(int), plec(char). Wiek nalezy wylosowac z przedzialu <1,100>. Plec nalezy wylosować 'M' lub 'K'. 

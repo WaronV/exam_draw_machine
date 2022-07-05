@@ -1,0 +1,1 @@
+zad2c: Policz srednia arytmetyczna kolumny srednia owych wynikow nalerzy przenies na plik pt. (Pierwszy.Program.Wiktora.P.txt).

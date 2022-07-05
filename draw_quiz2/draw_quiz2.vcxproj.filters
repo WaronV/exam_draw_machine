@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Pliki źródłowe">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Pliki zasobów">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="brak_rek.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="kolokwium.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="poczatek.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="rek_litera.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="rek_wiek.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="rek_xy.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="brak_rek.h">
+      <Filter>Pliki źródłowe</Filter>
+    </ClInclude>
+    <ClInclude Include="kolokwium.h">
+      <Filter>Pliki źródłowe</Filter>
+    </ClInclude>
+    <ClInclude Include="poczatek.h">
+      <Filter>Pliki źródłowe</Filter>
+    </ClInclude>
+    <ClInclude Include="rek_litera.h">
+      <Filter>Pliki źródłowe</Filter>
+    </ClInclude>
+    <ClInclude Include="rek_wiek.h">
+      <Filter>Pliki źródłowe</Filter>
+    </ClInclude>
+    <ClInclude Include="rek_xy.h">
+      <Filter>Pliki źródłowe</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="tekst1a.txt">
+      <Filter>Pliki źródłowe</Filter>
+    </Text>
+    <Text Include="tekst1b.txt">
+      <Filter>Pliki źródłowe</Filter>
+    </Text>
+    <Text Include="tekst1c.txt">
+      <Filter>Pliki źródłowe</Filter>
+    </Text>
+    <Text Include="tekst1d.txt">
+      <Filter>Pliki źródłowe</Filter>
+    </Text>
+    <Text Include="tekst2a.txt">
+      <Filter>Pliki źródłowe</Filter>
+    </Text>
+    <Text Include="tekst2b.txt">
+      <Filter>Pliki źródłowe</Filter>
+    </Text>
+    <Text Include="tekst2c.txt">
+      <Filter>Pliki źródłowe</Filter>
+    </Text>
+    <Text Include="tekst2d.txt">
+      <Filter>Pliki źródłowe</Filter>
+    </Text>
+    <Text Include="tekst3a.txt">
+      <Filter>Pliki źródłowe</Filter>
+    </Text>
+    <Text Include="tekst3b.txt">
+      <Filter>Pliki źródłowe</Filter>
+    </Text>
+    <Text Include="tekst3c.txt">
+      <Filter>Pliki źródłowe</Filter>
+    </Text>
+    <Text Include="tekst3d.txt">
+      <Filter>Pliki źródłowe</Filter>
+    </Text>
+    <Text Include="wynik1.txt">
+      <Filter>Pliki źródłowe</Filter>
+    </Text>
+    <Text Include="wynik2.txt">
+      <Filter>Pliki źródłowe</Filter>
+    </Text>
+    <Text Include="wynik3.txt">
+      <Filter>Pliki źródłowe</Filter>
+    </Text>
+    <Text Include="poczatek.txt">
+      <Filter>Pliki źródłowe</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

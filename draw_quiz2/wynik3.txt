@@ -1,0 +1,1 @@
+zad3b: Trzem najstarszym osobom w kolejnowsci przeksztalcic plec na M (jesli to mozliwe) i przepisac te osoby do nowej tablicy dwuwymiarowej .

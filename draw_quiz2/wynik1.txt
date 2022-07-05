@@ -1,0 +1,1 @@
+zad1b: Znajdz osobe najstarsza  w kolumnnie  wylosowana z przedzialu <0,N>, a nastepnie wypelnic plcia wylosowanej osoby wszystkie pola nad dwiema przekatnymi.
